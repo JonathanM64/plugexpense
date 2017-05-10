@@ -7,3 +7,4 @@ A noter que :
 - la page modele.php est le gabarit pour la création des pages d'administration. 
 - Les fonctions et les tables portent toutes le préfixe em_
 - le nom des fonction et des tables est en anglais
+- le wiki vous donne les étapes de production à suivre
