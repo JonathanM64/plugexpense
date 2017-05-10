@@ -2,11 +2,11 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /wpplugin2017/
+RewriteBase /expense-manager-grp1/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /wpplugin2017/index.php [L]
+RewriteRule . /expense-manager-grp1/index.php [L]
 </IfModule>
 
 # END WordPress
